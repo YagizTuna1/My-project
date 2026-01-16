@@ -1,0 +1,19 @@
+h1 {
+    background-color: red;
+    size: 44px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: aqua;
+    size: 36px;
+}
+
+.photo {
+    text-align: center;
+}
+.photo img {
+    width: 300px;
+    height: auto;
+}
